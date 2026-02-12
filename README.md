@@ -14,7 +14,7 @@
 ## Build Instructions:
 ### This project is designed to be run from the root directory.
 ### Build CMake with cmake -B build
-### Build the program with '''cmake --build build'''
-### Run the executable with '''./build/Debug/First-OpenGL-project.exe'''
+### Build the program with 'cmake --build build'
+### Run the executable with './build/Debug/First-OpenGL-project.exe'
 #### Note that the executable's location may be different for you, mine happens to be in 
-#### the '''./build/Debug''' directory.
+#### the './build/Debug' directory.
