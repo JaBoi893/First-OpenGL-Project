@@ -1,0 +1,19 @@
+# CMake build directories
+/build/
+/out/
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.user
+
+# VS Code files
+.vscode/
+.cache/
+
+# Compiled Binaries
+*.exe
+*.obj
+*.pdb
+*.dll
